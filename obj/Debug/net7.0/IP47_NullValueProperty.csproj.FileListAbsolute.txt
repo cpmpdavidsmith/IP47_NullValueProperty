@@ -1,0 +1,15 @@
+/Users/davidsmith/Desktop/Repos/IP47_NullValueProperty/IP47_NullValueProperty/bin/Debug/net7.0/IP47_NullValueProperty
+/Users/davidsmith/Desktop/Repos/IP47_NullValueProperty/IP47_NullValueProperty/bin/Debug/net7.0/IP47_NullValueProperty.deps.json
+/Users/davidsmith/Desktop/Repos/IP47_NullValueProperty/IP47_NullValueProperty/bin/Debug/net7.0/IP47_NullValueProperty.runtimeconfig.json
+/Users/davidsmith/Desktop/Repos/IP47_NullValueProperty/IP47_NullValueProperty/bin/Debug/net7.0/IP47_NullValueProperty.dll
+/Users/davidsmith/Desktop/Repos/IP47_NullValueProperty/IP47_NullValueProperty/bin/Debug/net7.0/IP47_NullValueProperty.pdb
+/Users/davidsmith/Desktop/Repos/IP47_NullValueProperty/IP47_NullValueProperty/obj/Debug/net7.0/IP47_NullValueProperty.csproj.AssemblyReference.cache
+/Users/davidsmith/Desktop/Repos/IP47_NullValueProperty/IP47_NullValueProperty/obj/Debug/net7.0/IP47_NullValueProperty.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidsmith/Desktop/Repos/IP47_NullValueProperty/IP47_NullValueProperty/obj/Debug/net7.0/IP47_NullValueProperty.AssemblyInfoInputs.cache
+/Users/davidsmith/Desktop/Repos/IP47_NullValueProperty/IP47_NullValueProperty/obj/Debug/net7.0/IP47_NullValueProperty.AssemblyInfo.cs
+/Users/davidsmith/Desktop/Repos/IP47_NullValueProperty/IP47_NullValueProperty/obj/Debug/net7.0/IP47_NullValueProperty.csproj.CoreCompileInputs.cache
+/Users/davidsmith/Desktop/Repos/IP47_NullValueProperty/IP47_NullValueProperty/obj/Debug/net7.0/IP47_NullValueProperty.dll
+/Users/davidsmith/Desktop/Repos/IP47_NullValueProperty/IP47_NullValueProperty/obj/Debug/net7.0/refint/IP47_NullValueProperty.dll
+/Users/davidsmith/Desktop/Repos/IP47_NullValueProperty/IP47_NullValueProperty/obj/Debug/net7.0/IP47_NullValueProperty.pdb
+/Users/davidsmith/Desktop/Repos/IP47_NullValueProperty/IP47_NullValueProperty/obj/Debug/net7.0/IP47_NullValueProperty.genruntimeconfig.cache
+/Users/davidsmith/Desktop/Repos/IP47_NullValueProperty/IP47_NullValueProperty/obj/Debug/net7.0/ref/IP47_NullValueProperty.dll
